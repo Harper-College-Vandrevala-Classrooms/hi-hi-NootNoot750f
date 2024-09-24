@@ -1,0 +1,3 @@
+C:/Users/gn65240/OneDrive - Harper College - Academic/Documents/GitHub/hi-hi-NootNoot750f/cmake-build-debug/CMakeFiles/hi_hi_NootNoot750f.dir
+C:/Users/gn65240/OneDrive - Harper College - Academic/Documents/GitHub/hi-hi-NootNoot750f/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gn65240/OneDrive - Harper College - Academic/Documents/GitHub/hi-hi-NootNoot750f/cmake-build-debug/CMakeFiles/rebuild_cache.dir
