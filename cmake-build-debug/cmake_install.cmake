@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/gn65240/OneDrive - Harper College - Academic/Documents/GitHub/hi-hi-NootNoot750f
+# Install script for directory: D:/CSC122 Projects/Hi-hi/hi-hi-NootNoot750f
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/gn65240/OneDrive - Harper College - Academic/Documents/GitHub/hi-hi-NootNoot750f/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/CSC122 Projects/Hi-hi/hi-hi-NootNoot750f/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
