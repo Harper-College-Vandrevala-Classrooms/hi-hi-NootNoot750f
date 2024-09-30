@@ -15,5 +15,6 @@ int main() {
 	cout << "Enter another string: ";
 	cin >> string2;
 	cout << endl;
+//Does this work now?
 
 }
